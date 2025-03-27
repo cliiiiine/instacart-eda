@@ -1,5 +1,3 @@
-# instacart-eda
-
 # Project Description
 
 DATASETS
